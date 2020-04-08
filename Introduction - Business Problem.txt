@@ -1,6 +1,6 @@
 Introduction / Business Problem
 
-I my final work here at Data Science Captstone I will discuss
+In my final work here at Data Science Capstone I will discuss
 the similarities between two great cities: Berlin/Germany and New York City/USA
 
 These two cities are the financial center of its continents.
