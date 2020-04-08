@@ -1,3 +1,5 @@
 Data
 
-The data used will be foursquare location data, showing the venues at the areas as well as populational data extracted from government websites for each of the cities.
+The data used will be foursquare location data,
+showing the venues at the areas as well as populational 
+data extracted from government websites for each of the cities.
