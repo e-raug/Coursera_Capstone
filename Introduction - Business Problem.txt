@@ -1,0 +1,8 @@
+Introduction / Business Problem
+
+I my final work here at Data Science Captstone I will discuss the similarities between two great cities: Berlin/Germany and New York City/USA
+
+These two cities are the financial center of its continents.
+
+I'm going to show the number of venues, what are the most common types of venues, how they are close each other as well as show a map comparing the density of business in the central area of each town. That, together with number of people living in each, could help stackeholders discover where there's space for new business and where not.
+
